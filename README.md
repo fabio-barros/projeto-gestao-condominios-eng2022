@@ -48,4 +48,4 @@ Liste de forma numerada e com identificadores únicos os seus requisitos de proj
 Exemplo de sequência de MVPs:
 * **MVP1 - Cadastros** - [REQ1, REQ2]: Sistema de autenticação e cadastro de todas as entidades.
 * **MVP2 - Serviços e Informativos** - [REQ3, REQ4]: Solicitação de serviços pelo moradores
-* **MVP2 - Pagamentos e relatórios** - [REQ5, REQ6]: Pagamentos por parte dos moradores
+* **MVP3 - Pagamentos e relatórios** - [REQ5, REQ6]: Pagamentos por parte dos moradores
