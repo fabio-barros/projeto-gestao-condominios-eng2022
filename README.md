@@ -13,19 +13,21 @@
 >### Por via de regra, a responsabilidade de gerenciamento de tais demandas se concentra na figura do Síndico, seja ele condômino eleito por assembleia ou profissional de Gestão Condominial. De modo que pode por um lado um condômino pode não ter conhecimentos administrativos, burocráticos e habilidades para lidar com essa demanda de forma eficiente; Por outro lado a contratação de empresa especializada pode acarretar em custos recorrentes ao condomínio. 
 >### Tornando nesse cenário uma opção praticável e de demanda evidente a disponibilidade de um software de gerenciamento a disposição de síndicos e condôminos, de modo a agilizar e desburocratizar as tarefas de um condomínio; tendo a disposição do síndico informações como lista de moradores com dados pessoais e informações sobre pagamentos de despesas, produzir informativos que ao invés de serem fixados em murais possam ser notificados aos moradores por e-mail, WhatsApp, etc... E aos moradores opções como a possibilidade de solicitação de serviços, informações sobre possíveis intervenções estruturais que ocorrerão no seu piso. Tornando assim o síndico independente na administração do condomínio, e os condôminos menos frustrados e mais insformados.
 
- 1. Quem vai usar o programa?
-	>Síndicos e moradores de um condomínio.
- 2. Que serviços são “necessários” (leia-se: importantes para os clientes e usuários)?
-	 > Realizar pagamentos, Solicitar Serviços, 
- 3. Quais serviços cada usuário pode executar?
-	 > **Síndico**: 
-	 Gerar de relatórios de serviçoes, pagamento...;
+ ### 1. Quem vai usar o programa?
+	Síndicos e moradores de um condomínio.
+ ### 2. Que serviços são “necessários” (leia-se: importantes para os clientes e usuários)?
+	 > Realizar pagamentos, Solicitar Serviços...
+ ### 3. Quais serviços cada usuário pode executar?
+**Síndico**:
+
+	  Gerar de relatórios de serviçoes, pagamento...;
 	  Cadastro de moradores, veículos e funcionários;
 	  Aprovação de solicitações de serviços;
 	  Gerar notificações gerais e individuais;
 	  Convocação de assembleias;
 	  Aplicação de multas;<br>
-	  > **Morador**
+**Morador**:
+	  
 	  Obter informações sobre e realizar pagamentos;
 	  Solicitar servições de manutenção, entre outros;
 	  
