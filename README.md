@@ -2,10 +2,12 @@
 
 ## Integrantes do grupo 
  * Fábio Ribeiro - whatupfabio@gmail.com
- * ...
- * ...
- * ...
- * ...
+ * Filipe Moreira Gomes - filipe_m_gomes@hotmail.com
+ * Matheus Gabriel Vieira Soares - mgvsmatheus1@gmail.com
+ * Pedro Henrique de Oliveira Santos - pedrohenrique110401@outlook.com
+ * Paulo Henrique da Silva - paulo.hsilva6@ufrpe.br
+ * João Victor de Sena Lemos Gomes Marinheiro - joaovictordesena2020@gmail.com
+ * Rubson Hebrain de Lima Freire - limarubson@hotmail.com
 
 ## Descrição geral do projeto 
 
