@@ -24,7 +24,7 @@
 	  Aprovação de solicitações de serviços;
 	  Gerar notificações gerais e individuais;
 	  Convocação de assembleias;
-	  Aplicação de multas;
+	  Aplicação de multas;<br>
 	  > **Morador**
 	  Obter informações sobre e realizar pagamentos;
 	  Solicitar servições de manutenção, entre outros;
