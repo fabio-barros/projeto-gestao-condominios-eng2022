@@ -1,4 +1,4 @@
-## Projeto Gerênciamento de Condomínios
+## Sistema de Gerênciamento de Condomínio
 
 ## Integrantes do grupo 
  * Fábio Ribeiro - whatupfabio@gmail.com
