@@ -20,7 +20,7 @@
  ### 3. Quais serviços cada usuário pode executar?
 **Síndico**:
 
-	  Gerar de relatórios de serviçoes, pagamento...;
+	  Gerar de relatórios de serviços, pagamento...;
 	  Cadastro de moradores, veículos e funcionários;
 	  Aprovação de solicitações de serviços;
 	  Gerar notificações gerais e individuais;
@@ -29,6 +29,7 @@
 **Morador**:
 	  
 	  Obter informações sobre e realizar pagamentos;
+	  Solicitar documentos;
 	  Solicitar servições de manutenção, entre outros;
 	  
 	  
